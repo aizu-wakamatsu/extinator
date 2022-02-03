@@ -52,3 +52,10 @@ When we start a business, our company should have three types of members.
 - A person who make zero to one (create new things)🐜 They realize their creative idea to product.
 
 - A person who make one to ten (expand the business)🐘 They promote our product to customers.
+
+## Readme of this repo
+We will not put any materials without docs in this main branch until release.
+
+We will have develop branch, it will be main of developing. We also create new branch from that by new function.
+
+We will put developing blog on [our website](freesia.work).
