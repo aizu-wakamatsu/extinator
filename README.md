@@ -59,3 +59,5 @@ We will not put any materials without docs in this main branch until release.
 We will have develop branch, it will be main of developing. We also create new branch from that by new function.
 
 We will put developing blog on [our website](freesia.work). ←this is a link
+
+We create issue to manage task. Please look at Issues / Projects page.
