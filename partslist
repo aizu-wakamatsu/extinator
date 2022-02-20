@@ -1,0 +1,19 @@
+# Parts list
+
+## Main frame
+- 3528 tape LED 60LED/1m (white)
+- 3528 tape LED 60LED/1m (red)
+- 3528 tape LED 60LED/1m (orange)
+
+## Power supply box
+
+- ?
+
+## Motor control box
+
+- ESP32?
+
+## I/O box
+- 1x KS-07-A Key lock switch
+- 5x LAS2-16H-E DC12V blue alternate push switch
+- 1or2x ESP32-WROOM-32E
