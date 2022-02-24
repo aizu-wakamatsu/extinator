@@ -1,4 +1,4 @@
-# neu-mobil
+# extinator
 The new mobility for everyone.
 
 (The project name is temporary.)
