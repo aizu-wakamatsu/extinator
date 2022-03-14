@@ -7,6 +7,7 @@ The new mobility for everyone.
 ## Index
 
 - About this project (This page)
+- [Parts list](./partslist.md)(Japanese)
 - [Purchase list](./purchase.md)(Japanese)
 - [Specifications sheet](./specifications.md)(Japanese)
 
