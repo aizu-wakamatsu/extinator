@@ -1,3 +1,4 @@
+This is English version of README. にほんご: [リンク](./README.md)
 # extinator
 The new mobility for everyone.
 
