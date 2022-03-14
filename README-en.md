@@ -7,8 +7,8 @@ The new mobility for everyone.
 ## Index
 
 - About this project (This page)
-- [Purchase list](./purchase.md)
-- [Specifications sheet](./specifications.md)
+- [Purchase list](./purchase.md)(Japanese)
+- [Specifications sheet](./specifications.md)(Japanese)
 
 ## Premise 
 Snow piles up in winter. We can't ride a bicycle and we don't want to walk in snow. There is also a risk of falling when we walk on icy road.
