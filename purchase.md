@@ -1,5 +1,7 @@
 # Purchase list
 
+Since the name of parts is Japanese, this page is only available in Japanese.
+
 |Date|Item|Shop|Unit price|Quantity|Subtotal|
 |:-:|:-:|:-:|--:|--:|--:|
 |2/12|LED Digital panel meter DE-2645-02|Akizuki|1000|1|1000|
@@ -50,4 +52,4 @@
 |2/22|uxcell Buzzer|Amazon|589|1|589|
 |2/22|Battery meter YB28VE-W|Amazon|1388|1|1388|
 
-### Total: ￥41979
+### 合計: ￥41979
