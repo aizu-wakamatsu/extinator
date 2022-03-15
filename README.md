@@ -1,9 +1,3 @@
-# extinator: develop/main
+# extinator: develop/feature/sw-alt
 
-開発物を置くmain。おそらく動く。
-
-- develop/feature/なんとか: 機能追加用ブランチ。ここにあるプログラムは製作途中。完成次第develop/mainにマージする。
-- develop/debug/なんとか: デバッグ用ブランチ。ここにあるプログラムは欠陥を抱えている。直し次第派生元にマージする。
-- develop/test/なんとか: テスト用に作ったブランチ。特に開発上の意味はない。
-
-その他、ブランチはいろいろ派生するかも。
+オルタネートプッシュスイッチのプログラム実装
